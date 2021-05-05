@@ -1,0 +1,96 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Email
+ major_version : 25
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Email
+ identifier : 0x202e1bd704a69a47
+ internal_properties : BQAAAAUAAABasWZ7kc4T0pydzKREW8JBVhX6Y+qg/UgC7ITGjNM1uIPSXJNbo/H1kuiwwth7Z23/4UUkQHvZYUEbdYzBlYWISfc+hKsM9+BvFourEqMp/zK789U5s2hWwkZBEVfX+uOZi0PfvlFTLP9zz8DUW9BnDTllMhkjjS94MR1oHSkdDeDNnkUQbEvcLnXhzBY8gEC+Buu6X5NomFu7va/E3Wc3RZCzJHFlnReeX6bNmfD7buioWX23OYpof9pch44awyX/LuYDtmw2KORXsEBVDQ4a+NsKaechOfH/3Fgm+BVM18x8uT3g+6MLOf4PU9g4k3dFhF2y/HkKOg62OZkn+V+MnJU3AzGzVCkMGZYrgytC7pzosSMwFepwMv0GEcKFud8IfsaYUqkGWGRWzqrr4ULVHw4v6hOO0oxyZS/sFNemUCK70rfP0X+GDhdSY+yJdihdY5FV3iVpugQvQdB5zDYtVtp3eqguOwWMLgSLAnUM4JvEc3UMvUFrWkUllt0hqoCj+WVYcstkU98LCdfdrjPjUGd+aEQ4kIAAsbo29B2F22w7S6loP4MeptkrGh/QgmH9ENHLeIrrVwFe2ZeMR3lwnpU4HRSsMJlvNqeE9N3XMK/szGByd/cPIBgaeJQrt3jDTxXOMYiNbvqFB/cVU/lD2DecsfIDdTeAFC8F87ZG/pjggt8OiXQyP86cK8zm+8QbbKJB2Zwnp7U0pDlOH2ehpN+3Rzpz9pw4+81PFs5nDNUsAGZu3zkN/DXD9XnO2vaAwo1gSQysR8t4aHFYgugkg7WX3DwwUxASbyq49TLVEFfKeZdmugoo4HDIxS8R+EFMLg7UIT2GV7AtXpZ4qIGvZBdCd5NYCBQJFU1WRN26JMXHsmvzbGPQoBr8l2cMRXFic6sXW3VVE4ZW+EzH7A==
+ controls :
+  -
+    name : BTN_Clear
+    identifier : 0x202fb74d24d8e61d
+    internal_properties : BQAAAAUAAADLhIKsfZbpUOW0ySvjIsfEZYx1pEo3XXzG43yGWpEu0mzLHZHSHvPQJJrhAX7KtaQWkTAxEz6ydIdgHSQcCw7bj+9k/Li1Y+xBEQvxtBCp/6+zi0b+xQeaZM/zdeIv1nBtfNtk/cTuwMKPD9lwD/ZslyPzqn1l97Ek8OdmZU7UiosCPDMaQmKNcOrZTRZjVCxRy0BneCmWV/D18BdZ6kXBhS/Hpt/qBpp1POp6FlYA4p8n032Ombtde/rh5a/aBGRNspV4BQaBw85+kAucu/TooWe4qJgbBLFmq//dln98rQflyXODVeCrIfgFYBQVsnpOZDfYnsTDO9sg6K7apu7gLywH2y2qk+PMJyOD0dO6UY7DdFPIUsOurjSMg55LSQEFVAmOTtlOSo3t05h3KmyzB+1JJ6+Nn10aBHFkpeNGjupiR2wKXgY005mZcfZAtQz3L9YoJmF4MufQutdtlwM0Ic1mHKZ3nLrwz3uAAiJCZJXBVzk64kE4LjrPGH5FWg+xN4tp7VgzsXjR3NoqZLBa0Ojcqh9MThdiW4GD+vPewl4LV5yIasAgrf0MPL3dyf/0Gv4G4VwgP2Ko57aJBQbqIyTEZO3qXeJGFl7ZHL67AtCN/K5rJYrb99ZO9x51HL5yQWxqAYuqpv10/7EdT8Ss9ZSs3w9b/4in7kqlzW5iZLD2+89tNH62yGZVt6K5E0fgCP/khS48qioB0aY7dPFK6FvhtUqQ90lLSkiYfnKivVoWVBZ4ewEQYXZFc7xL5ZSAfA0VU84IjXYqbj1cxhw+1KuIQJSmlXfj8Co697esVREWNOpB047WOZFJXIY8aWoXg4CkZAf0Rvpu+w/pyxZRuyq59w7OatBN18EX50KOikDDx4i8jfxP4e2n5GxJ8XvrOFBCutKILNYFKTFIX04UqvQheRsn59G3ZmqJC+ZuaHgk9yi8yOu0mZqdWd0Czj84J8sYQZ4Tzq6imWG4veb0RHjr+AQca/SEeUKeZD4aA59DCRHDNgHtlpRHm7X3q0gKEvEz6O3RSVfs1KFmqfBmS35VKVii0kMTXIUPrbATnJOnkiwPAPOB85rKGvOV1rX1EKC+P2cp1mhI2MTLy6zf12SNVt2YHl51vJ2XnProPDbu+2b6OqI6E5Y3Uuoxsyse6JYZYLayQZtPZmhDpwxxtxjqYTjHlNkTH7RSgrlaUhOYiCeAg6sh8BKZn1h/
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         doc1 is Document 
+         WP_1=doc1
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_To_Email
+    identifier : 0x202fb7d02679e4ea
+    internal_properties : BQAAAAUAAAAuww4EFJa/pDSno8R6jdPe34mlLZ8nu9+385v762iJJ419a7WDqG49VofY8owRQYHTeU2AhEoyA1Z+cwAI2Twa9V0GRdDKWPVQid72dK+qWpnIGGcXXBoxnUOhGkgqB6wSd75QpoNpe+aYIl/w3S1PuNPg1X7jbZtu1yEQbGbb3Pv/MiAfiDeQM49UXErLGJwsTH12CuwVr7jLqLaPnYZQODGeK0tl6r65Z9HA2qaldUKY/POVAu+x9/OD610LMLFCPnzENQh7iH8JBUB9h/g4fyZ7DzjY56R5ta3JcFML1AId4MlH7r9xdXl+M640bRARXKGmYw+qCBhwrZ6h589WrWNgIsSlMBMQVj8/xl3clmxRvOE2VoNzoF+fmZDZGQZg6s+Jr59dU0Dy+Gwwzzp3z7TuAXt1KpL29co0NdBn4giFM5A25Zi1lU21kXa4hFUMzgJmxYxChyWPLGVbASqysaNQMf4lwcVL2H+XupVDp49uaWGwJZK/JYnW9PEqIH3UL/qFueN1J65UhvMzyX3j8tuua5i2aL4jZR97Vhn+hNDy6b94BOCsbElbHdqRL+WGlqMSMz2Vy58E8Few+kyp1IFZt7sm4n2DoB1fCnbXqTrd3128B5hr0moXEAbY0nDzK1cTNUGZhQIcHFSybYwggSeLrZGOwb4x1LvnYoi/7EXQqPyQ1Gg+4X3KPGJ6RSBjfXs6M8YOzPKGubw2oDTbHdvUXzNhAdPGhShgxfsb+ZpPu+ujmT1TI28LqyYQ9CTc2A41bzdUCDfDg16F6jyBe/GM3SxaFoRwtDwM/EwGQvH2MGuKwVs9sdCVzLqZblAPVtr3G4V7yYsl8Z904XVdHIc/K+GOhg/e0n2O7/VHlYZ8HJzCMUOzI8imJ7BJCEoDqaFXlytkoY6wE6zRX/k1MRtjgYxhiIbQIpUbKupLYvLrIeH5a0iC7e4Ln7Aw7ZpYC9uFOKIq8Sqn4hKT65H7ZFpKSePLrauvDQ7SYlOPf9tyqdN2y/C7W/LydraSux5lHmK4XNWT+JmergPdiexsuAR6PYE51nDn/sn9m6g4kT8Y0WF/wA6FEwxa1ZuYLLAAjpHgd351Znq5sOc/ijZsQS/EGvTNyVJuVcA+uuf9wV+PFOGCR+aUD5uzIPbYuhDTZkY5ecJIlwh2xfy/Ygtc0DUBd97zA75mISok8VTEYzDtUAsesRRx2awssujz52mLkK8nHSycJQQ8
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         sHtmlFile is string=fExeDir()+"\f.html"
+         sEmlFile is string=fExeDir()+"\f.eml"
+         WP_1.ToHTML(sHtmlFile,dthWithoutCSS)
+         
+         e1 is email 
+         e1.ImportHTML(fLoadText(sHtmlFile),fExeDir)
+         e1.Recipient[1]="ah.developer101@gmail.com"
+         e1.Cc[1]="ah.developer101@gmail.com"
+         e1.Subject="Hello Test Message"
+         if e1.BuildSource() THEN
+         	fSaveText(sEmlFile,e1.Source)
+         	ShellExecute(sEmlFile)
+         END
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : WP_1
+    identifier : 0x209311a204082334
+    internal_properties : BQAAAAUAAACkMv/Ny5vGetEPTFqL9bCQz8fcjzBiBt6Ip6PY1cfjdMI4F8NxBXGe9WCf1yJu5OFs0TivOilIUcrbjCWMlHkpkwl+KETFAJog/VBomZYkuQDGvCBvfUsexlSjUNbYY3fpOOnAfGwxHzFTw/Ub3eyRYzmDR7fIMxEiObj0HUypTNKa/IQ0Ihe965ou/VaJYMH48omoipv8WPlNV2/bZoP1iR2xx/z6dL6X8zRA0VqyfKqbyXrt333qauxXJ1WVbqlqkXRbRBYeY3tNFA2oDKuMRhnOELX1EYef2HYkIsO45Te74z1vjPoPDj4PEoRLo9Jffqm21tPzBdDqlmwci1qDUxKE6rSBTExX6mIP4CqUQVBH2AjPwyNjOraStLWYIMQdB2TVnoW1zcR3QotaOn/y5w4pGvTd6IW4qzcku2paVIh+MUgpqPDNyjgny1tZ98oWktZL6oe7D3H1bMKHLZhozXrQdVj+DFDmigXxdJk5x+PiXDEYYg0JqCnNyQ3FkBNYRRqapZaHdWffssBD0YOaxArAGvfb0thRKn+afDJtJtPrtyhzmzhzVSon95hZvnCMXNdJNi4P3+Qqy5VXd0PvHLRbsmhmjmWC+xRwYdsDJverWgzAX7WlyC2RiKgXu7lHTYPzetUTEFppTQjr8LcZNoT4S1A5yuc8gcnqQBV3DRuHQ0L2T0HaPyl/6J9I1Z5YVsIndrgYtodBG4jmM0yBdtyeuHC7am8fUnZ1/yMj6BD0hwsNV8f4a9w8xUg+bd9MLm5DQJZKk6cf5jltG25ZtuQeMIslHHx+pa9OS1TTiSUvnY6iqktTunh3njajcHRfKinLrFOwPj/gdeGfK1RySUBb92pUildMZVjFY/MCPe+kdgWIYaD58fUxxjQoLP+sJCsLSMtYjxUr/qPYALHiJIokj99pUpeRQLJZtzeqcRpfae6ODVcA9yF0bwCkismXvUmGjPVV5hbbQUex511tfUddnZjRd87EEN1lTL6X8ItzkiVSy6GBTOrSC1t2TBuS4/Vi6bjnbv2zUSY8jqMFzCC1TZDuP48n6slfp4Jltoon57K0a2GSXHzWbhCxSAkGewuAihWtLOUYRGnH1TwM+H7qnpBYdSwolIkbLcujp+Lpm/lyEMHv79RpF5S1DUbzUKhpVy9oqEYzQHUg2EvHFoF4Z+d71fY5p6M=
+    type : 120
+    code_elements :
+     type_code : 147
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : BQAAAAUAAAA0QuiT1uqKIeLu1Xbft03jKipzfgJNUzvU7X3mXSAzXAai946hp8FXH/vzAD+OrVWu9EbcTrPhzXvAVDWy+bBGXBs+8mRwAMA2yejFGzTv5nuBPu0dNp6iH9daT22YuZGus/1qRRkl6ovQzHIj1SZWRhRZh34kFDqobK/gH7lwOouKc7mOsTq0Waos453tOwtWDKBFfCkLB6lKqP8PhfbDl1oiUi5W97mx4WKTrSVUARIuXXPjCFFNQBufM865ww==
+  options : []
+ languages :
+  - en-US
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : BQAAAAUAAABqPQh6HC8RxAVkp2SqPYLuZrfVhd+1KX4lx22hIT8uqEpE6yP7Sbc2rmVqdmL816EWzXOkEe9ijOtYwchZKAfpy3B1cNqhpJgsnbUs
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MyWindow()
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : BQAAAAUAAAAwjDLmDSZ0H1P68nJIeNfqR9EvRjU/K+sVcM1T6rhVNr+VTV1mZ/rmoweYbFDZUhBGcv8UsxlDxVCOnb2U/SQOvlGWzNby3/w/V+ppSymxv+Vh
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x102e1bd100078345
+  internal_properties : BQAAAAUAAAAa2Zm8J9E/zh+/WIrVvz1fER/So3PB0gjQuxc1xKQVWY4ZDm5lfg==
+custom_note :
+ internal_properties : BQAAAAUAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : BQAAAAUAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
